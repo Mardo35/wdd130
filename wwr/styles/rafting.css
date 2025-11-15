@@ -62,10 +62,11 @@ h1{
     color: #fff;
 }
 
-article{
+.hero article{
     position:absolute;
     top:100px;
     left:100px;
+    
 }
  
 footer p{
@@ -108,3 +109,6 @@ footer p{
 .hero section p{
     text-align: justify;
 }
+
+
+
