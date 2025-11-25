@@ -46,7 +46,7 @@ nav a {
 }
 
 nav a:hover{
- color:var(--primary-color);
+ color:var(--secondary-color);
  
 }
 
@@ -90,11 +90,11 @@ footer p{
     border: 1px solid var(--accent1-color);
     color: var(--accent2-color);
     background-color: var(--accent1-color);
+    font-family: var(--heading-font);
 }
 
 .hero article img{
     width:110px;
-    border-radius: 5px;
     float: right;
     margin-right: 5px;
     border-radius: 10px;
