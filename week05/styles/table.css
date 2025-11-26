@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+table{
+    border: 1px solid #333;
+    width:450px;
+    height:200px;
+    margin:50px auto;
+    border-collapse: collapse;
+}
+
+td {
+    padding:15px;
+    border: 1px solid #333;
+    text-align: center;
+}
+
+th {
+    padding:20px;
+    border: 1px solid #333;
+}
+thead{
+    color:#fff;
+    background-color: black;
+    text-align: center;
+}
+ tfoot{
+    background-color: black;
+    color:#fff;
+    text-align: center;
+    padding: 20px;
+ }

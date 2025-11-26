@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#333;
+    background-color: #fff;
+    font-size: 1.5rem;
+}
+
+.header{
+    margin: 0 auto;
+    max-width: 650px;
+}
+
+form{
+    margin:0 auto;
+    max-width: 650px;
+    padding: 1.5rem;
+    display:grid;
+    border: 1px solid #333;
+}
+
+fieldset{
+    display: gird;
+    grid-gap:1.2rem;
+}
+
+legend{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding:0.5rem;
+    font-size: 1.3em;
+}
+input, select, textarea{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+label {
+    text-align: right;
+    padding-right: 10px;
+}
+
+/* incomplete */

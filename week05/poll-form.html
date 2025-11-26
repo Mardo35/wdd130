@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/poll-form.css">
+    <title>Poll-form</title>
+</head>
+
+<body>
+
+    <form action="#">
+
+        <fieldset class="header">
+            <legend>Contact information</legend>
+            <label for="fullname">Full name:</label>
+            <input type="text" id="fullname" name="fullname" required>
+            <br>
+
+            <label for="email">Email address:</label>
+            <input type="text" id="email" name="email" required>
+
+        </fieldset>
+
+        <br>
+        <fieldset>
+            <legend>Questions</legend>
+            <label for="browser">What is your favorite browser?</label>
+            <select name="browser" id="browser">
+                <option value="1">Edge</option>
+                <option value="2">Chome</option>
+                <option value="2">Safari</option>
+            </select>
+            <br>
+
+            <label for="pet">Do you have a household pet?</label>
+            <input type="checkbox" name="pet" id="pet">
+            <br>
+
+            <label for="feedback">List the places you have lived</label>
+            <textarea name="feedback" id="feedback" rows="4" placeholder="Delmas. PV, Cite Soleil"></textarea>
+
+        </fieldset>
+
+        <input type="button" value="submit Poll">
+
+    </form>
+
+</body>
+
+</html>
