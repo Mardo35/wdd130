@@ -207,7 +207,7 @@ footer p{
     grid-template-columns: 1fr 1fr;
     align-items: center;
     padding: 10px;
-    background-color: var(--primary-color);
+    background-color: var(--accent2-color);
     border-bottom: 1px solid var(--primary-color);
 }
 
@@ -306,7 +306,7 @@ footer p{
     grid-template-columns: 1fr auto; 
     align-items: center;
     padding: 15px 20px;
-    background-color: var(--primary-color);
+    background-color: var(--accent2-color);
     position: relative; /* needed to center text independently */
 }
 
