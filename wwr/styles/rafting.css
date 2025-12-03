@@ -42,11 +42,11 @@ nav ul {
 nav a {
     text-decoration: none;
     font-family: var(--body-font);
-    color: var(--secondary-color);
+    color: var(--accent1-color);
 }
 
 nav a:hover{
- color:var(--accent1-color)
+ color:var(--primary-color)
  
 }
 
