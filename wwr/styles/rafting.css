@@ -81,15 +81,6 @@ nav a:hover{
     left:100px;
     
 }
-<<<<<<< HEAD
-=======
- 
-/* footer p{
-    font-size: 10px;
-    
-    
-} */
->>>>>>> 4b7522048b7b06aecab9d914fa7e113dde2a74ee
 
 .hero section h2{
     text-align: center;
@@ -192,7 +183,6 @@ nav a:hover{
 
 /* Icons aligned to the right using Flexbox */
 .socialmedia {
-<<<<<<< HEAD
     display: flex;
     gap: 15px;
     justify-content: flex-end;
@@ -203,28 +193,6 @@ nav a:hover{
     height: 30px;
     cursor: pointer;
 } 
-=======
-    display: flex;
-    gap: 15px;
-    justify-content: flex-end;
-} *
-
-.socialmedia img {
-    width: 30px;
-    height: 30px;
-    cursor: pointer;
-} 
-
-
-
-/* .bottom nav {
-    display: flex;
-    flex-direction: row;          
-    gap: 0.5rem;            
-    list-style: none;
-    justify-content: flex-end; 
-} */
->>>>>>> 4b7522048b7b06aecab9d914fa7e113dde2a74ee
 
 .bottom p{
     position: absolute;
@@ -233,20 +201,6 @@ nav a:hover{
     margin: 0;
     
 }
-
-/* Icons aligned to the right using Flexbox */
-/* .socialmedia {
-    display: flex;
-    gap: 15px;
-    justify-content: flex-end;
-} */
-
-/* .socialmedia img {
-    width: 30px;
-    height: 30px;
-    cursor: pointer;
-} */
-
 
 /* Contact for the contact.html page */
 
